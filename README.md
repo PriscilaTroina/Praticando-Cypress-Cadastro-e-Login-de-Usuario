@@ -36,7 +36,7 @@ Já dentro da pasta support/Page Objects podem ser encontrados os Commands:
    
 4. Execute os seguintes comandos para instalar o Cypress:
    
-     * npm init;
+     * npm install init;
      * npm i cypress@13.1.0 -D
        
 5. Execute o seguinte comando para abrir o Cypress:
