@@ -69,7 +69,7 @@ describe('Login', () => {
         cy.SucessoMsgLogin(email)
     })
 
-    it.only('Ainda não tem conta', () => {
+    it('Ainda não tem conta', () => {
         //Clica no 'Ainda não tem conta' para fazer cadastro
         cy.cliqueAindaNaoTemConta()
 
