@@ -34,21 +34,13 @@ Já dentro da pasta support/Page Objects podem ser encontrados os Commands:
    
 3. Acesse a pasta onde clonou o repositório via terminal;
    
-4. Execute os seguintes comandos para instalar o Cypress:
+4. Execute o seguinte comando para instalar as dependências do projeto:
    
-     * npm install init;
-     * npm i cypress@13.1.0 -D
-       
+     * npm install;
+
 5. Execute o seguinte comando para abrir o Cypress:
    
-     * npx cypress open
+     * npx cypress open.
        
-6. Execute o seguinte comando para instalar o faker.js:
-   
-     * npm install @faker-js/faker --save-dev
-       
-7. Execute o seguinte comando para instalar o relatório do mochawesome:
-   
-     * npm i --save-dev cypress-mochawesome-reporter
 
 
